@@ -1,3 +1,5 @@
+#include "lista_dublu_inlantuita.h"
+
 /*
  * Functie care trebuie apelata pentru alocarea si initializarea unei liste.
  * (Setare valori initiale pentru campurile specifice structurii list).
